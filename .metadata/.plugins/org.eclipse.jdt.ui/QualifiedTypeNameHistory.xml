@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.eshopping.cart.exception.ErrorDetails"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.model.Product"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.service.ItemService"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.service.CartService"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.repository.ItemRepository"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.repository.CartRepository"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.model.Cart"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.model.Items"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.exception.ProductNotFoundException"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.exception.DuplicateCartItemException"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.exception.InvalidQuantityException"/>
+    <fullyQualifiedTypeName name="com.eshopping.cart.model.CartItems"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spring.web.plugins.Docket"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spi.DocumentationType"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.RequestHandlerSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.service.ApiInfo"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+    <fullyQualifiedTypeName name="com.eshopping.product.service.ProductService"/>
+    <fullyQualifiedTypeName name="com.eshopping.product.repository.ProductRepository"/>
+    <fullyQualifiedTypeName name="com.eshopping.product.model.Product"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+</qualifiedTypeNameHistroy>
